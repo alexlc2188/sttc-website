@@ -51,7 +51,7 @@ export default function PrivateCoaching() {
                   height={600}
                   className="w-full h-full object-cover object-[center_5%]"
                 />
-                <div className="absolute inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center opacity-0 group-hover:opacity  -100 group-focus-within:opacity-100 transition-opacity duration-300">
+                <div className="absolute inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center opacity-0 group-hover:opacity-100 group-focus-within:opacity-100 transition-opacity duration-300">
                   <p className="text-white text-lg font-medium">
                     Click to view more
                   </p>
