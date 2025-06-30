@@ -57,7 +57,7 @@ export default function Footer() {
 
           <div>
             <Image
-              src="/images/STTC logo latest.png"
+              src="/images/sttc-logo-latest.png"
               alt="STTC Club Logo"
               width={100}
               height={48}

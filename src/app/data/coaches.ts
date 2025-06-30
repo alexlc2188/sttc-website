@@ -42,7 +42,7 @@ export const coaches = [
   {
     name: 'Clarence Cheng',
     tier: 'Advanced Coach',
-    image: '/images/coaches/sarah.jpg',
+    image: '/images/clarence-test.jpg',
     achievements: [
       'Coached multiple state-level juniors',
       'Sports science background',
