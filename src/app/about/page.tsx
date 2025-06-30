@@ -60,17 +60,17 @@ export default function AboutPage() {
         height={240}
         className="rounded-full object-cover"
       />
-      <h3 className="text-2xl font-semibold mt-6">Shaoping "Owen" Zhang</h3>
-      <p className="text-red-600 font-medium text-sm mt-1">Club Manager / Head Coach</p>
+      <h3 className="text-2xl font-bold mt-6">Shaoping "Owen" Zhang</h3>
+      <p className="text-red-600 font-bold text-md mt-2">Club Manager / Head Coach</p>
       <div className="text-zinc-700 mt-4 text-sm leading-relaxed text-left max-w-xs">
-        <ul className="list-disc list-inside space-y-2">
+        <ul className="list-disc pl-5 mb-4 space-y-2">
           <li><strong>2017</strong> Australian National Singles Quarterfinalist</li>
           <li><strong>2016</strong> Australian Open Round of 16 & ITTF Uni Singles Gold</li>
           <li><strong>2014</strong> National Singles Bronze & Team Silver</li>
           <li><strong>2013</strong> Chinese National Uni League Team Bronze</li>
         </ul>
-        <p className="mt-4 font-semibold text-red-600">Coaching Achievements:</p>
-        <ul className="list-disc list-inside space-y-2 mt-2">
+        <p className="mt-8 font-bold pl-5 text-red-600">Coaching Achievements:</p>
+        <ul className="list-disc pl-5 mb-4 space-y-2 mt-2">
           <li><strong>2018</strong> – Mingxuan Nie: U21 Singles Silver (Senior Nationals)</li>
           <li><strong>2017</strong> – Alex Lee: U18 Singles Gold (Junior Nationals)</li>
           <li><strong>2015</strong> – Jerry Han: U13 Singles Bronze, Team Gold</li>
@@ -88,10 +88,10 @@ export default function AboutPage() {
         height={240}
         className="rounded-full object-cover"
       />
-      <h3 className="text-2xl font-semibold mt-6">Hongbo Liang</h3>
-      <p className="text-red-600 font-medium text-sm mt-1">Club Manager / Technical Adviser</p>
+      <h3 className="text-2xl font-bold mt-6">Hongbo Liang</h3>
+      <p className="text-red-600 font-bold text-md mt-2">Club Manager / Technical Adviser</p>
       <div className="text-zinc-700 mt-4 text-sm leading-relaxed text-left max-w-xs">
-        <ul className="list-disc list-inside space-y-2">
+        <ul className="list-disc pl-5 mb-4 space-y-2">
           <li><strong>AIS National Coach (2022–2032)</strong></li>
           <li>Generation 2032 Brisbane Olympic National Coach</li>
           <li>TTA Performance Coach (2020–2022)</li>

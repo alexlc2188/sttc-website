@@ -36,7 +36,7 @@ const Navbar = () => {
           <div className="flex justify-start lg:justify-center w-full lg:w-[160px]">
             <Link href="/home" className="flex justify-center">
               <img
-                src="/images/sttc logo latest.png"
+                src="/images/sttc-logo-latest.png"
                 alt="STTC logo"
                 className="h-20 w-auto object-contain cursor-pointer"
               />

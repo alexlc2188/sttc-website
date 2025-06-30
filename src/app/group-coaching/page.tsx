@@ -11,9 +11,9 @@ export default function GroupCoaching() {
         className="relative min-h-[80vh] flex items-center justify-center bg-cover bg-center text-white px-4"
         style={{ backgroundImage: `url('/images/group-coaching-hero.jpg')` }}
       >
-        <div className="bg-black/70 backdrop-blur-sm p-6 md:p-10 rounded-xl text-center shadow-lg max-w-2xl">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">Group Coaching at STTC</h1>
-          <p className="text-lg md:text-xl">Develop your skills, compete with friends, and train with our elite coaches in a fun, supportive environment.</p>
+        <div className="bg-black/80 p-8 md:p-10 rounded-xl text-center shadow-xl max-w-2xl mx-auto">
+          <h1 className="text-4xl font-bold mb-4 text-white">Group Coaching at STTC</h1>
+          <p className="text-lg text-white">Develop your skills, compete with friends, and train with our elite coaches in a fun, supportive environment.</p>
         </div>
       </section>
 
@@ -74,8 +74,8 @@ export default function GroupCoaching() {
 <section className="py-20 px-6 bg-white">
   <div className="max-w-3xl mx-auto text-center">
     <h2 className="text-3xl font-bold text-zinc-900 mb-6">Pricing</h2>
-    <p className="text-lg text-zinc-700 mb-4">
-      All group coaching sessions are priced at
+    <p className="text-lg text-black mb-4">
+      All group coaching sessions start from
       <span className="text-red-600 font-semibold"> $60 per session</span>.
     </p>
     <p className="text-md text-zinc-500">
